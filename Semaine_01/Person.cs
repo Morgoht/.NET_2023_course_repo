@@ -13,7 +13,7 @@ namespace Semaine_01
             get { return Name; }
             set { Name = value; }
         }
-
+       
         private string Firstname
         {
             get { return Firstname; }
